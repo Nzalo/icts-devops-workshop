@@ -1,7 +1,6 @@
-# another title
+---
+title: My First Page
+layout: default
+---
 
-## Test
-
-### another header
-
-Hello World
+Hello World!
